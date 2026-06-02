@@ -32,7 +32,9 @@ cd backend
 mvn spring-boot:run
 ```
 
-后端默认运行在 http://localhost:8080，接口文档见 http://localhost:8080/swagger-ui.html
+后端默认运行在 http://localhost:8080
+
+接口文档见 http://localhost:8080/swagger-ui.html
 
 ### 3. 前端启动
 
@@ -43,6 +45,10 @@ npm run dev
 ```
 
 前端默认运行在 http://localhost:5173，开发模式下自动代理 `/api` 请求到后端。
+
+### 4. 在线试用
+
+访问：http://159.223.50.237/
 
 ---
 
